@@ -1,0 +1,24 @@
+MOBILE SHOP MANAGEMENT SYSTEM IN PHP
+
+**Manager Login Details**
+
+Username: manager
+Password: 12345
+
+**Seller Login Details**
+
+Username: irera
+Password: 12345
+
+**Developed By Kwizera Robert**
+
+DON'T FORGET TO CREATE A DATABASE NAMING "hellophones" AND IMPORT THE SQL FILE.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://code-projects.org/ *****
+
+#THANK YOU FOR DOWNLOADING
